@@ -13,7 +13,7 @@
 # @raycast.packageName Personal Scripts
 
 # get ip addresses
-set pub (curl -s ifconfig.me)
+set pub (curl -s https://wp.tenseg.net/scripts/ip.php)
 set eth (ipconfig getifaddr en0)
 set wifi (ipconfig getifaddr en1)
 
