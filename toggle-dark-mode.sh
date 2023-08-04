@@ -1,6 +1,6 @@
 #!/usr/bin/env fish
 
-# myip
+# toggle-dark-mode
 #
 # Toggles dark mode
 #
